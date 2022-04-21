@@ -17,12 +17,12 @@
     grid-template-columns: repeat(3,1fr);
 }
 .name{
-    border: 1px solid #c4421a;
+    border: 1px solid #20176a;
     background-color: white;
     
 }
 .btn{
-    outline: #c4421a;
+    outline: #120602;
 }
 .btn-profile{
     outline: #c4421a;
