@@ -46,4 +46,3 @@ SOFTWARE.
 Email: mungaturner140@gmail.com
 
 ## Live Link
-https://abishag-maitha.github.io/GitHub-Connector/
