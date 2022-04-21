@@ -43,8 +43,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author's Information
-Email: abishag.maitha@student.moringaschool.com
-Contact: 0719816825
+Email: mungaturner140@gmail.com
 
 ## Live Link
 https://abishag-maitha.github.io/GitHub-Connector/
