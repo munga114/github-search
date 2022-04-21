@@ -1,0 +1,30 @@
+.profile img{
+    width: 150px;
+    border-radius: 50%;
+}
+.repo{
+    background-color: teal;
+    color: #c4421a;
+}
+.followers p{
+    background-color: white;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 3px;
+}
+.repo-info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.name{
+    border: 1px solid #c4421a;
+    background-color: white;
+    
+}
+.btn{
+    outline: #c4421a;
+}
+.btn-profile{
+    outline: #c4421a;
+    color: #c4421a;
+}
