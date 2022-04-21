@@ -1,14 +1,14 @@
 # GitHub Connector
 
 #### Author
-Abishag Maitha
+Mungai Mbugua
 
 
 ## Description
-<p>This is a website where users can enter and submit their GitHub username, see names and descriptions of that user's public repositories. The user can also look for repositories.</p>
+This is a website where users can enter and submit their GitHub username, see names and descriptions of that user's public repositories. The user can also look for repositories.
 
 ## Project setup instructions
-<p>Fork the Repo from my github account and run file in your preffered editor. Any Browser is capable of rendering the app.component.html file</p>
+Fork the Repo from my github account and run file in your preffered editor. Any Browser is capable of rendering the app.component.html file
 
 ## Requirements
 * Either a computer or phone.
