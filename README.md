@@ -24,7 +24,7 @@ Fork the Repo from my github account and run file in your preffered editor. Any 
 ## MIT LICENSE
 MIT License
 
-copyright (c) @2022 [Abishag Maitha]
+copyright (c) @2022 [Mungai Mbugua]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
